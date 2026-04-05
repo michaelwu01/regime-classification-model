@@ -1,0 +1,26 @@
+# Core dependencies
+numpy>=1.24.0,<2.0.0
+pandas>=2.2.3,<3.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# NautilusTrader ecosystem
+nautilus-trader>=1.0.0
+pyarrow>=23.0.0
+
+# Technical indicators
+ta>=0.11.0
+
+# Data handling
+databento>=0.37.0
+
+# Utilities
+tqdm>=4.66.0
+
+# HMM (optional)
+hmmlearn>=0.3.0
+
+# Jupyter (optional, for notebook)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+matplotlib>=3.7.0
